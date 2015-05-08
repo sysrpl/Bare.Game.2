@@ -1,0 +1,15 @@
+lib
+*.tmp
+*.bak
+*.swp
+*.exe
+*.dll
+*.so
+*.ppu
+*.dcu
+*.zip
+*.7z
+tools/replace/replace
+examples/sprites/sprites
+examples/draw/game
+examples/draw/draw
